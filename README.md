@@ -27,14 +27,12 @@ To install the project, follow these steps:
 
 1.  Clone the repository to your local machine:
 
-bashCopy code
 
 `https://github.com/ssshrihari/DBProxy.git`
 
 
 1.  Install the dependencies:
 
-bashCopy code
 
 `npm install`
 
@@ -42,8 +40,6 @@ Usage
 -----
 
 To start the server, run:
-
-bashCopy code
 
 `npm run start`
 
@@ -65,7 +61,6 @@ Testing
 
 To run the automated tests, execute the following command:
 
-bashCopy code
 
 `npm test`
 
