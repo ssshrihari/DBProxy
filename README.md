@@ -16,7 +16,7 @@ Table of Contents
 Introduction
 ------------
 
-This project is a Node.js REST API serving as a generic database proxy for CRUD operations on a SQL database. It translates REST language into valid SQL statements, utilizing Seqlite of your choice. It is designed to ingest schema files to construct the database schema at each server startup.
+This project is a Node.js REST API serving as a generic database proxy for CRUD operations on a SQL database. It translates REST language into valid SQL statements, utilizing sqlite3 of your choice. It is designed to ingest schema files to construct the database schema at each server startup.
 
 Installation
 ------------
